@@ -3,3 +3,4 @@ datasets/
 **.DS_Store
 questions.txt
 nenv/
+.ipynb_checkpoints/
