@@ -4,3 +4,4 @@ datasets/
 questions.txt
 nenv/
 .ipynb_checkpoints/
+*.csv
