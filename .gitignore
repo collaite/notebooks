@@ -3,5 +3,6 @@ datasets/
 **.DS_Store
 questions.txt
 nenv/
+venv/
 .ipynb_checkpoints/
 *.csv
