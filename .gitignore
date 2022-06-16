@@ -6,3 +6,5 @@ nenv/
 venv/
 .ipynb_checkpoints/
 *.csv
+ts_edit_patterns2.json
+*.html
